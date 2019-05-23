@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 100px;
+}
+
+.items {
+  display: flex;
+  justify-content: space-between;
+  max-width: 500px;
+  width: 100%;
+  list-style: none;
+}
+
+.item {
+  color: purple;
+  font-size: 18px;
+}
+
+.logo {
+    text-transform: uppercase;
+    color: palevioletred;
+}
